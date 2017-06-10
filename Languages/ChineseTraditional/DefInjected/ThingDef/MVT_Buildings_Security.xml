@@ -1,84 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- gun complex -->
 
   <GunComplex.label>複合機槍巢</GunComplex.label>
-  <GunComplex.description>裝載了機槍的外圍防禦，只需要有人操控而不需要電力。損毀時爆炸半徑為1。</GunComplex.description>
+  <GunComplex.description>裝載了機槍的外圍防禦，只需要有人操控而不需要電力。不會爆炸。 </GunComplex.description>
+  <GunComplex_Blueprint.label>複合機槍巢 （藍圖）</GunComplex_Blueprint.label>
+  <GunComplex_Blueprint_Install.label>複合機槍巢（藍圖）</GunComplex_Blueprint_Install.label>
+  <GunComplex_Frame.label>複合機槍巢（建造中）</GunComplex_Frame.label>
 
-  <Bullet_GunComplex.label>複合機槍子彈</Bullet_GunComplex.label>
-  <Gun_GunComplex.label>複合機槍</Gun_GunComplex.label>
-  <Gun_GunComplex.description>重型機槍。</Gun_GunComplex.description>
+  <Bullet_GunComplex.label>複合機槍子彈</Bullet_GunComplex.label>
+
+  <Gun_GunComplex.label>複合機槍</Gun_GunComplex.label>
+  <Gun_GunComplex.description>重型機槍。 </Gun_GunComplex.description>
 
 
   <!-- rocket complex -->
 
   <RocketComplex.label>複合火箭巢</RocketComplex.label>
-  <RocketComplex.description>古老經典的武器，需要人員操控和裝填。幸運的是，在良好的光學瞄準和致命的爆炸範圍使得這種武器在前線仍然是可怕的存在。損毀時爆炸半徑為3。</RocketComplex.description>
+  <RocketComplex.description>古老經典的武器，需要人員操控和裝填。幸運的是，在良好的光學瞄準和致命的爆炸範圍使得這種武器在前線仍然是可怕的存在。損毀時爆炸半徑為3。 </RocketComplex.description>
+  <RocketComplex_Blueprint.label>複合火箭巢（藍圖）</RocketComplex_Blueprint.label>
+  <RocketComplex_Blueprint_Install.label>複合火箭巢（藍圖）</RocketComplex_Blueprint_Install.label>
+  <RocketComplex_Frame.label>複合火箭巢（建造中）</RocketComplex_Frame.label>
 
-  <Bullet_ComplexRocket.label>複合火箭</Bullet_ComplexRocket.label>
-  <Gun_RocketComplex.label>複合火箭發射器</Gun_RocketComplex.label>
-  <Gun_RocketComplex.description>安裝在石板上的複合火箭發射器。</Gun_RocketComplex.description>
+  <Bullet_ComplexRocket.label>複合火箭</Bullet_ComplexRocket.label>
+
+  <Gun_RocketComplex.label>複合火箭發射器</Gun_RocketComplex.label>
+  <Gun_RocketComplex.description>安裝在石板上的複合火箭發射器。 </Gun_RocketComplex.description>
 
 
   <!-- military grade turret -->
 
   <MilitaryTurretGun.label>軍用炮塔</MilitaryTurretGun.label>
-  <MilitaryTurretGun.description>自動炮塔的威力升級版。加長的雙槍管提供更大的射程，以及更高的連射次數。損毀時極高幾率爆炸，半徑為4。</MilitaryTurretGun.description>
+  <MilitaryTurretGun.description>自動炮塔的威力升級版。加長的雙槍管提供更大的射程，以及更高的連射次數。損毀時極高機率爆炸，半徑為4。 </MilitaryTurretGun.description>
+  <MilitaryTurretGun_Blueprint.label>軍用炮塔（藍圖）</MilitaryTurretGun_Blueprint.label>
+  <MilitaryTurretGun_Blueprint_Install.label>軍用炮塔（藍圖）</MilitaryTurretGun_Blueprint_Install.label>
+  <MilitaryTurretGun_Frame.label>軍用炮塔（建造中）</MilitaryTurretGun_Frame.label>
 
-  <Bullet_TurretMilitary.label>軍用炮塔子彈</Bullet_TurretMilitary.label>
-  <Gun_TurretMilitary.label>軍用炮塔用槍</Gun_TurretMilitary.label>
-  <Gun_TurretMilitary.description>裝載於炮塔的製作精良的槍械。</Gun_TurretMilitary.description>
+  <Bullet_TurretMilitary.label>軍用炮塔子彈</Bullet_TurretMilitary.label>
+
+  <Gun_TurretMilitary.label>軍用炮塔用槍</Gun_TurretMilitary.label>
+  <Gun_TurretMilitary.description>裝載於炮塔的製作精良的槍械。 </Gun_TurretMilitary.description>
 
 
   <!-- shredder turret -->
 
   <ShredderTurretGun.label>粉碎者炮塔</ShredderTurretGun.label>
-  <ShredderTurretGun.description>粉碎者炮塔是為近距離作戰而設計的。損毀時不會發生爆炸，使其成為室內防禦的完美選擇，唯一的缺點是比起普通的炮塔占據更多的空間。</ShredderTurretGun.description>
+  <ShredderTurretGun.description>粉碎者炮塔是為近距離作戰而設計的。損毀時不會發生爆炸，使其成為室內防禦的完美選擇，唯一的缺點是比起普通的炮塔佔據更多的空間。 </ShredderTurretGun.description>
+  <ShredderTurretGun_Blueprint.label>粉碎者炮塔（藍圖）</ShredderTurretGun_Blueprint.label>
+  <ShredderTurretGun_Blueprint_Install.label>粉碎者炮塔（藍圖）</ShredderTurretGun_Blueprint_Install.label>
+  <ShredderTurretGun_Frame.label>粉碎者炮塔（建造中）</ShredderTurretGun_Frame.label>
 
-  <Bullet_TurretShredder.label>粉碎者炮塔子彈</Bullet_TurretShredder.label>
-  <Gun_TurretShredder.label>粉碎者炮塔用槍</Gun_TurretShredder.label>
-  <Gun_TurretShredder.description>裝載於炮塔的粉碎者霰彈槍。</Gun_TurretShredder.description>
+  <Bullet_TurretShredder.label>粉碎者炮塔子彈</Bullet_TurretShredder.label>
+
+  <Gun_TurretShredder.label>粉碎者炮塔用槍</Gun_TurretShredder.label>
+  <Gun_TurretShredder.description>裝載於炮塔的粉碎者霰彈槍。 </Gun_TurretShredder.description>
 
 
   <!-- precision turret -->
 
   <PrecisionTurretGun.label>精準炮塔</PrecisionTurretGun.label>
-  <PrecisionTurretGun.description>大口徑槍械炮塔。發射單發子彈，但先進的瞄準設備使其在極遠距離上非常精準。損毀時爆炸幾率很小，半徑為2.5。</PrecisionTurretGun.description>
+  <PrecisionTurretGun.description>大口徑槍械炮塔。發射單發子彈，但先進的瞄准設備使其在極遠距離上非常精準。損毀時爆炸機率很小，半徑為2.5。 </PrecisionTurretGun.description>
+  <PrecisionTurretGun_Blueprint.label>精準炮塔（藍圖）</PrecisionTurretGun_Blueprint.label>
+  <PrecisionTurretGun_Blueprint_Install.label>精準炮塔（藍圖）</PrecisionTurretGun_Blueprint_Install.label>
+  <PrecisionTurretGun_Frame.label>精準炮塔（建造中）</PrecisionTurretGun_Frame.label>
 
-  <Bullet_TurretPrecision.label>精準炮塔子彈</Bullet_TurretPrecision.label>
-  <Gun_TurretPrecision.label>精準炮塔用槍</Gun_TurretPrecision.label>
-  <Gun_TurretPrecision.description>裝載於炮塔的精準槍械。</Gun_TurretPrecision.description>
+  <Bullet_TurretPrecision.label>精準炮塔子彈</Bullet_TurretPrecision.label>
+
+  <Gun_TurretPrecision.label>精準炮塔用槍</Gun_TurretPrecision.label>
+  <Gun_TurretPrecision.description>裝載於炮塔的精準槍械。 </Gun_TurretPrecision.description>
 
 
   <!-- blast turret -->
 
   <BlastTurretGun.label>爆裂炮塔</BlastTurretGun.label>
-  <BlastTurretGun.description>爆裂炮塔是為近距離範圍攻擊而設計的，每次發射3發破片榴彈。損毀時爆炸半徑為4.5。</BlastTurretGun.description>
+  <BlastTurretGun.description>爆裂炮塔是為近距離範圍攻擊而設計的，每次發射3發破片榴彈。損毀時爆炸半徑為4.5。 </BlastTurretGun.description>
+  <BlastTurretGun_Blueprint.label>爆裂炮塔（藍圖）</BlastTurretGun_Blueprint.label>
+  <BlastTurretGun_Blueprint_Install.label>爆裂炮塔（藍圖）</BlastTurretGun_Blueprint_Install.label>
+  <BlastTurretGun_Frame.label>爆裂炮塔（建造中）</BlastTurretGun_Frame.label>
 
-  <Bullet_BlastCharge.label>爆裂榴彈</Bullet_BlastCharge.label>
-  <Gun_BlastCharge.label>爆裂炮塔榴彈發射器</Gun_BlastCharge.label>
-  <Gun_BlastCharge.description>裝載於固定哨戒基座的榴彈發射器。</Gun_BlastCharge.description>
+  <Bullet_BlastCharge.label>爆裂榴彈</Bullet_BlastCharge.label>
+
+  <Gun_BlastCharge.label>爆裂炮塔榴彈發射器</Gun_BlastCharge.label>
+  <Gun_BlastCharge.description>裝載於固定哨戒基座的榴彈發射器。 </Gun_BlastCharge.description>
 
 
   <!-- vulcan cannon -->
 
   <VulcanCannon.label>火神炮</VulcanCannon.label>
-  <VulcanCannon.description>火力持續的增強型機槍炮塔，堅固耐用以及怪獸版的火力。結構高達、射程遠，但也導致無法精確瞄準並且無法部署於室內。損毀時爆炸半徑為5.1。</VulcanCannon.description>
+  <VulcanCannon.description>擁有持續火力的增強型機槍炮塔，射程遠，堅固耐用，火力驚人，但也導致無法精確瞄準並且無法部署於室內。損毀時爆炸半徑為5.1。 </VulcanCannon.description>
+  <VulcanCannon_Blueprint.label>火神炮（藍圖）</VulcanCannon_Blueprint.label>
+  <VulcanCannon_Frame.label>火神炮（建造中）</VulcanCannon_Frame.label>
 
-  <Bullet_VulcanCannon.label>火神炮子彈</Bullet_VulcanCannon.label>
-  <Gun_VulcanCannon.label>火神炮</Gun_VulcanCannon.label>
-  <Gun_VulcanCannon.description>裝載於炮塔的製作精良的槍械。</Gun_VulcanCannon.description>
+  <Bullet_VulcanCannon.label>火神炮子彈</Bullet_VulcanCannon.label>
+
+  <Gun_VulcanCannon.label>火神炮</Gun_VulcanCannon.label>
+  <Gun_VulcanCannon.description>裝載於炮塔的製作精良的槍械。 </Gun_VulcanCannon.description>
 
 
   <!-- Devastator mortar -->
 
   <Turret_DevastatorMortarBomb.label>毀滅者迫擊炮</Turret_DevastatorMortarBomb.label>
-  <Turret_DevastatorMortarBomb.description>磁力彈弓系統發射的等離子炮彈擁有更高的速度、精度，得益於連射的5發炮彈而有更大的爆炸半徑。不消耗炮彈但需要大量的電力。損毀時爆炸半徑為10，需要非常小心。</Turret_DevastatorMortarBomb.description>
+  <Turret_DevastatorMortarBomb.description>磁力彈弓系統發射的等離子炮彈擁有更高的速度、精度，得益於連射的5發炮彈而有更大的爆炸半徑。以動力單元製造台製作的離子動力單元為彈藥。損毀時產生半徑為10的EMP爆炸，</Turret_DevastatorMortarBomb.description>
+  <Turret_DevastatorMortarBomb_Blueprint.label>毀滅者迫擊炮（藍圖）</Turret_DevastatorMortarBomb_Blueprint.label>
+  <Turret_DevastatorMortarBomb_Frame.label>毀滅者迫擊炮（建造中）</Turret_DevastatorMortarBomb_Frame.label>
 
-  <Bullet_DevastatorBomb.label>高爆毀滅者炮彈</Bullet_DevastatorBomb.label>
-  <Artillery_DevastatorBomb.label>毀滅者迫擊炮</Artillery_DevastatorBomb.label>
-  <Artillery_DevastatorBomb.description>毀滅者發射器。可越過墻體發射炮彈。精度低但射程遠並且彈頭速度高。</Artillery_DevastatorBomb.description>
+  <Bullet_DevastatorBomb.label>高爆毀滅者炮彈</Bullet_DevastatorBomb.label>
 
+  <Artillery_DevastatorBomb.label>毀滅者迫擊炮</Artillery_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.description>毀滅者發射器。可越過牆體發射炮彈。精度低但射程遠並且彈頭速度高。 </Artillery_DevastatorBomb.description>
 
 </LanguageData>

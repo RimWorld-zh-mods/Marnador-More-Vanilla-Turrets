@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CellFabricator.label>动力单元制造台</CellFabricator.label>
+  <CellFabricator.Description>一个用于组装毁灭者动力单元的制造台，耗电量非常大。</CellFabricator.Description>
+  <CellFabricator_Blueprint.label>动力单元制造台（蓝图）</CellFabricator_Blueprint.label>
+  <CellFabricator_Frame.label>动力单元制造台（建造中）</CellFabricator_Frame.label>
+
+
+</LanguageData>

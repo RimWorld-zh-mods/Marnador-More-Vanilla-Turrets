@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Particle Cell -->
+
+  <ParticleCell.label>毁灭者动力单元</ParticleCell.label>
+  <ParticleCell.description>为毁灭者迫击炮设计的动力单元。受损时会发生EMP爆炸。</ParticleCell.description>
+
+
+</LanguageData>
